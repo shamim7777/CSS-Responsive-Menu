@@ -1,4 +1,5 @@
 CSS-Responsive-Menu
 ===================
 
-Very lightweight responsice menu with HTML CSS
+Very lightweight responsive menu with HTML CSS
+
